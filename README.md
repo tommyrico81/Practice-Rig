@@ -23,7 +23,7 @@ Practice Rig for all to crash, the goal of the practice rig is a dead simple pla
 
 * 4x FC Isolation Grommets (https://www.project399.com/collections/products/products/fc-isolation-grommets)
 
-# Reccomended Build
+# Recommended Build
 2408/2507/2510 sized motors, in 1300kv
 
 The reason for the lower KV is to force you to learn race lines. If you're always using extra power as a crutch to fly, you wont ever learn the fast way around the track. Having a slower heavier quad forces you to keep your momentum and practice good race lines. 
