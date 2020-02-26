@@ -1,5 +1,5 @@
-# Practice-Rig
-Practice Rig for all to crash, the goal of the practice rig is a dead simple platform, where new comers to the FPV world can have a frame to practice with and not have to worry about breaking too many parts in the process. Its also for the experts, slowing down the drone allows for better training of line work and throttle control. 
+# R4 Street CE - Project 399 Practice Rig
+The R4 Street Practice Rig takes the already bullet proof Project 399 Practice Rig Frame, and retrofits it into a DRL Style Racer 4 Canopy. This modification requires only the 2 halfplates 3mm each, and 4 arms 6mm each. There is an example of the frame build on this site showing the configuration of the carbon. If you choose to take your existing practice rig and use it in this configuration, you will require the 3D printed pieces for assembly. Please note that there are a few options depending on the setup you are using. Select the appropriate Camera Cradle for the DJI AirUnit or Analog, however the DJI one may work with both but will require additional modification. The bottom shell is also has two options for a 5s 1800mah battery or 2200mah battery. Currently 2200mah 5s batteries are available from various online FPV stores. The bottom plate was desinged around the Pyrodrone 2200mah 5s pack, but dimensions are larger than other RDQ and CNHL available 5s 2200mah batteries. 
 
 # Cutting Specs
 * Half Plates: 3mm Thick Carbon Fiber
@@ -7,9 +7,6 @@ Practice Rig for all to crash, the goal of the practice rig is a dead simple pla
 * Arms: 6mm Thick Carbon Fiber
 
 # Hardware
-* 4x M3x20mm Female/Female Aluminum Standdoffs (Rear standoffs)
-
-* 4x M3x28mm Female/Female Aluminum Standoffs (Front standoffs)
 
 * 12x M3x16mm Steel Button Head Screws (Arm screws)
 
