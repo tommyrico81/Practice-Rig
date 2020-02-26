@@ -23,6 +23,22 @@ The R4 Street Practice Rig takes the already bullet proof Project 399 Practice R
 
 * 4x FC Isolation Grommets (https://www.project399.com/collections/products/products/fc-isolation-grommets)
 
+# Print Recommendations
+
+Antenna Holders DJI Air Unit
+R4 Tail Fin 
+-PLA 80% infill | 60mm Print Speed
+
+R4 Bottom Shell 1800mah & 2200mah 
+R4 Top Shell 
+-Nylon 80-100% infill | 50mm Print Speed - Generate Support Overhang 45 degree
+
+R4 Cradle
+R4 Rear Mount
+-TPU 80% infill | 30mm Print Speed - Generate Support Overhang 45 degree
+
+Be sure to dehydrate filament prior to use. $30 Food dehydrater available on Amazon for use
+
 # Recommended Build
 
 HD DJI Build - https://rotorbuilds.com/build/21813
