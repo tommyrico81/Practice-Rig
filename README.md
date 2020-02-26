@@ -1,5 +1,5 @@
 # R4 Street CE - Project 399 Practice Rig
-The R4 Street Practice Rig takes the already bullet proof Project 399 Practice Rig Frame, and retrofits it into a DRL Style Racer 4 Canopy. This modification requires only the 2 halfplates (3mm each), and 4 arms (6mm each). There is an example of the frame build on this site showing the configuration of the carbon. If you choose to take your existing practice rig and use it in this configuration, you will require the 3D printed pieces for assembly. Please note that there are a few options depending on the setup you are using. Select the appropriate Camera Cradle for the DJI AirUnit or Analog, however the DJI one may work with both but will require additional modification. The bottom shell is also has two options for a 5s 1800mah battery or 2200mah battery. Currently 2200mah 5s batteries are available from various online FPV stores. The bottom plate was desinged around the Pyrodrone 2200mah 5s pack, but dimensions are larger than other RDQ and CNHL available 5s 2200mah batteries. 
+The R4 Street Practice Rig takes the already bullet proof Project 399 Practice Rig Frame, and retrofits it into a DRL Style Racer 4 Canopy. This modification requires only the 2 halfplates (3mm each), and 4 arms (6mm each). There is an example of the frame build on this site showing the configuration of the carbon. If you choose to take your existing practice rig and use it in this configuration, you will require the 3D printed pieces for assembly. Please note that there are a few options depending on the setup you are using. Select the appropriate Camera Cradle for the DJI AirUnit or Analog, however the DJI one may work with both but will require additional modification. The bottom shell also has two options, a 5s 1800mah battery or 5s 2200mah battery. Currently 2200mah 5s batteries are available from various online FPV stores. The 2200mah bottom canopy was designed around the Pyrodrone 2200mah 5s pack, but dimensions are larger than other RDQ and CNHL available 5s 2200mah batteries. 
 
 # Cutting Specs
 * 2X Half Plates: 3mm Thick Carbon Fiber
@@ -29,6 +29,8 @@ The R4 Street Practice Rig takes the already bullet proof Project 399 Practice R
 The reason for the lower KV is to force you to learn race lines. If you're always using extra power as a crutch to fly, you wont ever learn the fast way around the track. Having a slower heavier quad forces you to keep your momentum and practice good race lines. 
 
 5s 2200mah or 2x 1300mah packs in parallel
+
+https://pyrodrone.com/collections/batteries/products/pyro-drone-graphene-2200mah-5s-185v-75c-by-who-cares
 
 The larger battery helps you get as much flight time as possible. You can now full throttle for 5 minutes straight. Squeezing the most practice time out of your time at the field.
 
