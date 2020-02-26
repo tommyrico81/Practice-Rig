@@ -1,5 +1,5 @@
 # R4 Street CE - Project 399 Practice Rig
-The R4 Street Practice Rig takes the already bullet proof Project 399 Practice Rig Frame, and retrofits it into a DRL Style Racer 4 Canopy. This modification requires only the 2 halfplates (3mm each), and 4 arms (6mm each). There is an example of the frame build on this site showing the configuration of the carbon. If you choose to take your existing practice rig and use it in this configuration, you will require the 3D printed pieces for assembly. Please note that there are a few options depending on the setup you are using. Select the appropriate Camera Cradle for the DJI AirUnit or Analog, however the DJI one may work with both but will require additional modification. The bottom shell also has two options, a 5s 1800mah battery or 5s 2200mah battery. Currently 2200mah 5s batteries are available from various online FPV stores. The 2200mah bottom canopy was designed around the Pyrodrone 2200mah 5s pack, but dimensions are larger than other RDQ and CNHL available 5s 2200mah batteries. 
+The R4 Street Practice Rig takes the already bullet proof Project 399 Practice Rig Frame, and retrofits it into a DRL Style Racer 4 Canopy. This modification requires only the 2 halfplates (3mm each), and 4 arms (6mm each). There is an example of the frame build on this site showing the configuration of the carbon. If you choose to take your existing practice rig and use it in this configuration, you will require the 3D printed pieces for assembly. Please note that there are a few options depending on the setup you are using. Select the appropriate Camera Cradle for the HD DJI AirUnit or Analog Camera System. The Analog camera has been tested to fit a RunCam Racer or Microswift. The bottom shell also has two options, a 5s 1800mah battery or 5s 2200mah battery. Currently 2200mah 5s batteries are available from various online FPV stores. The 2200mah bottom canopy was designed around the Pyrodrone 2200mah 5s pack. Since the Pyrodrone Pack is slightly larger than the RDQ or CNHL Battery, these should fit as well in the battery cavity.
 
 # Cutting Specs
 * 2X Half Plates: 3mm Thick Carbon Fiber
@@ -13,7 +13,7 @@ The R4 Street Practice Rig takes the already bullet proof Project 399 Practice R
 
 * 28x M3x8mm Steel Button Head Screws (Screws for standoffs and motors)
 
-* 8x M3x20-22mm Steel Button Head (FC Stack screws)
+* 8x M3x20-22mm Steel Button Head (FC Stack screws) https://pyrodrone.com/collections/hardware-and-bling/products/7075-aluminum-m3-stack-screws-choose-length
 
 * 4X Button Head Washers (For Clamping Top Canopy) https://pyrodrone.com/collections/hardware-and-bling/products/m3-buttonhead-washer-1-pc
 
