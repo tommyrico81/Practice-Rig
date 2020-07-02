@@ -25,7 +25,6 @@ The R4 Street Practice Rig takes the already bullet proof Project 399 Practice R
 
 # Print Recommendations
 
-* Antenna Holders DJI Air Unit & R4 Tail Fin | PLA 80% infill | 60mm Print Speed
 
 * R4 Bottom Shell 1800mah & 2200mah & R4 Top Shell | Nylon 80-100% infill | 50mm Print Speed - Generate Support Overhang 45 degree
 
@@ -36,7 +35,7 @@ $30 Food dehydrater available on Amazon for use
 
 # Recommended Build
 
-HD DJI Build - https://rotorbuilds.com/build/21813
+Build Components - https://rotorbuilds.com/build/21813
 
 2408/2507/2510 sized motors, in 1300kv
 
